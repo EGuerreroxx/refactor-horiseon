@@ -38,12 +38,18 @@ header menu ul {
 
 header menu ul li {
     display: inline-block;
-    margin-left: 25px;
 }
-
+/* added padding and margin to 'a' tags specifically to stylize the new hover feature for a clener look */
 a {
     color: #ffffff;
     text-decoration: none;
+    margin-left: 9px;
+    padding: 8px;
+}
+/* added a hover feature to a tag links, inverting colors */
+a:hover {
+    color: #2a607c;
+    background-color: #d9dcd6;
 }
 
 p {
