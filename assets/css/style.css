@@ -46,7 +46,7 @@ a {
     margin-left: 9px;
     padding: 8px;
 }
-/* added a hover feature to a tag links, inverting colors */
+/* added a hover feature to 'a' tag links, inverting colors */
 a:hover {
     color: #2a607c;
     background-color: #d9dcd6;
@@ -80,8 +80,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
-.benefits {
+/* changed div with benefit class to aside tag */
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -91,50 +91,18 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
-.benefit-lead {
+/* benefit class has been optimized to prevent repetition, the h3 and img are done the same on all three instances*/
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
