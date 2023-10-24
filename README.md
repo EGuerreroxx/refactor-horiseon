@@ -10,4 +10,4 @@ accommodate more users visually demonstrating modern web tactics.
 [Live URL](https://eguerreroxx.github.io/refactor-horiseon)
 
 ## Screenshot
-![Screenshot of Refactor Horiseon](./screenshots/refactor_horiseon_full_page_screenshot.png)
+![Screenshot of Refactor Horiseon](screenshots\refactor_horiseon_full_page_screenshot.PNG)
