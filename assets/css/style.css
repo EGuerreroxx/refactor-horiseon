@@ -107,7 +107,8 @@ aside{
     margin: 10px auto;
     max-width: 150px;
 }
-/* optimized article selector to reflect the changes done in index.html file and reduce redundancy */
+/* optimized article selector to reflect the changes done in index.html file and reduce redundancy*/
+/* .content article is required to denote the class and tag since there is another article tag within the page */
 .content article {
     margin-bottom: 20px;
     padding: 50px;
