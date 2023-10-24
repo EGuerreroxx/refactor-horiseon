@@ -7,7 +7,7 @@ HTML tags and elements to reduce clutter and improve clarity. Branching out and 
 accommodate more users visually demonstrating modern web tactics.
 
 ## Usage
-[Live URL]()
+[Live URL](https://eguerreroxx.github.io/refactor-horiseon)
 
 ## Screenshot
-![Screenshot of Refactor Horiseon](assets\screenshots\refactor_horiseon_full_page_screenshot.PNG)
+![Screenshot of Refactor Horiseon](./screenshots/refactor_horiseon_full_page_screenshot.png)
